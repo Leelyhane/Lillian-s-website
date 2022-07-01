@@ -1,0 +1,68 @@
+
+.bio{
+font-size:20px;
+text-align:center;
+ background-color: grey; 
+ height: 250px;
+ width: 250px;
+ margin: 0px; 
+ position:relative;
+ top: 150px;
+ padding-top:150px;
+}
+
+.photo{
+font-size:20px;
+text-align:center;
+	background-color: skyblue; 
+ height: 250px;
+ width: 250px;	
+ margin-top:0px;
+ position: relative;
+ bottom: 250px;
+ left: 500px;
+ padding-top: 150px;
+}
+
+.history{
+font-size:20px;
+text-align:center;
+		background-color: yellow; 
+ height: 250px;
+ width: 250px;		
+ margin-left: 250px;
+ position:relative;
+ bottom:250px;
+ padding-top:150px;
+}
+
+.hobbies{
+font-size:20px;
+text-align:center;
+		background-color: pink; 
+ height: 250px;
+ width: 250px;		
+ margin: 0px;
+ position:relative;
+ bottom:250px;
+ padding-top:150px;
+}
+
+.contact{
+font-size:20px;
+text-align:center;
+		background-color: gold; 
+ height: 250px;
+ width: 250px;		
+ position: relative;
+ bottom:250px;
+ left:500px;
+ bottom: 650px;
+ /*top: 250px;*/
+ padding-top: 150px;
+}
+
+
+.div:hover{
+			background:green;
+			}
